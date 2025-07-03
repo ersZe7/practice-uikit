@@ -1,13 +1,6 @@
-//
-//  ViewController.swift
-//  pracitice-uikit
-//
-//  Created by Ersultan on 04.07.2025.
-//
-
 import UIKit
 
-class ViewController: UIViewController {
+final class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
